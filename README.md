@@ -11,7 +11,7 @@ Neste repositórios Os códigos estão organizados por **Ano** e por **Fase**
 da competição
 
 ### OBI 2025
-![Ver Prova](https://olimpiada.ic.unicamp.br/passadas/OBI2025/fase1/programacao/)
+[Ver Prova](https://olimpiada.ic.unicamp.br/passadas/OBI2025/fase1/programacao/)
 
 | Fase | Problema | Linguagem | Status | 
 | :---: | :--- | :---: | :---: | 
