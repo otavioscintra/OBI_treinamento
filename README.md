@@ -14,7 +14,7 @@ da competição
 ![Ver Prova](https://olimpiada.ic.unicamp.br/passadas/OBI2025/fase1/programacao/)
 
 | Fase | Problema | Linguagem | Status | 
-| :---: | :--- | :---: | :---: 
+| :---: | :--- | :---: | :---: | 
 | Fase 1| Pizzaria | Python | 🔴 A fazer |
 | Fase 1| Café com leite | Python | 🔴 A fazer |
 | Fase 1| Leite | Python | 🔴 A fazer |
