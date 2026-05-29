@@ -11,9 +11,11 @@ Neste repositórios Os códigos estão organizados por **Ano** e por **Fase**
 da competição
 
 ### OBI 2025
+![Ver Prova](https://olimpiada.ic.unicamp.br/static/extras/obi2025/provas/ProvaOBI2025_f1p1.pdf)
 
-| Fase | Problema | Linguagem | Status | Link do Enunciado
-| :---: | :--- | :---: | :---: | :---: |
+| Fase | Problema | Linguagem | Status | 
+| :---: | :--- | :---: | :---: 
+| Fase 1| Pizzaria | Python | 🔴 A fazer |
 
 
 Este repositório tem minhas próprias soluções para estudar. Se você também está
