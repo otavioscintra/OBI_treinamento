@@ -1,7 +1,6 @@
 # Treinamento OBI - Modalidade Programação Nível 1
 
-![Linguagem](https://img.shields.io/badge/Linguagem-C%2B%2B%20%2F%20Python-blue)
-![Status](https://img.shields.io/badge/Status-Em%20Progresso-green)
+![Linguagem](https://img.shields.io/badge/Linguagem-Python-blue)
 
 Olá, eu criei esse repositório para treinar para a OBI modalidade programação 
 nível 1 de 2026, nele eu estarei resolvendo os problemas de provas anteriores.
