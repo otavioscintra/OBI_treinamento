@@ -15,9 +15,9 @@ da competição
 
 | Fase | Problema | Linguagem | Status | 
 | :---: | :--- | :---: | :---: | 
-| Fase 1| Pizzaria | Python |  A fazer |
-| Fase 1| Café com leite | Python |  A fazer |
-| Fase 1| Leite | Python |  A fazer |
+| Fase 1| Pizzaria | Python |  Feito |
+| Fase 1| Café com leite | Python |  Feito |
+| Fase 1| Leite | Python |  Fazendo |
 
 
 Este repositório tem minhas próprias soluções para estudar. Se você também está
