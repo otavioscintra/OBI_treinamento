@@ -1,21 +1,17 @@
 def main():
-    alunos = int(input())
-    alturas = list(input())
-    sem_ver = 0
-    indice = alunos - 1
+    N = 5
+    alturas = [200, 180, 190, 140, 160]
+    nao_vistos = 0
+    maior_altura_vista = alturas[-1]
 
-    for i in range(alunos - 1):
-        while indice > 0:
-            if alturas[indice] >= alturas[indice - 1] \
-                  and alturas[indice - 1] > alturas[indice + 1]:
-                sem_ver += 1
-            indice -= 1
-        indice = alunos - 1
+    for i in range(N - 2, -1, -1):
+        if alturas[i] <= maior_altura_vista:
+            nao_vistos += 1
+        else:
+            maior_altura_vista = alturas[i]
 
-    print(sem_ver)
+    print(nao_vistos)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()
-
-# ainda n tá pronto
