@@ -4,7 +4,7 @@ def main():
 
     if e > d:
         print(e + d)
-    else: 
+    else:
         print(2 * (d - e))
 
 
