@@ -24,7 +24,7 @@ da competição
 
 | Fase | Problema | Linguagem | Status | 
 | :---: | :--- | :---: | :---: | 
-| Fase 1| Ogro | Python | A fazer |
+| Fase 1| Ogro | Python | Feito |
 | Fase 1| Relógio | Python | A fazer |
 | Fase 1| Concurso | Python | A fazer |
 
