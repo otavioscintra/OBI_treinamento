@@ -15,9 +15,20 @@ da competição
 
 | Fase | Problema | Linguagem | Status | 
 | :---: | :--- | :---: | :---: | 
-| Fase 1| Pizzaria | Python | 🔴 A fazer |
-| Fase 1| Café com leite | Python | 🔴 A fazer |
-| Fase 1| Leite | Python | 🔴 A fazer |
+| Fase 1| Pizzaria | Python | Feito |
+| Fase 1| Café com leite | Python | Feito |
+| Fase 1| Fila | Python | Feito |
+
+### OBI 2024
+[Ver Prova](https://olimpiada.ic.unicamp.br/passadas/OBI2024/fase1/programacao/)
+
+| Fase | Problema | Linguagem | Status | 
+| :---: | :--- | :---: | :---: | 
+| Fase 1| Ogro | Python | A fazer |
+| Fase 1| Relógio | Python | A fazer |
+| Fase 1| Concurso | Python | A fazer |
+
+
 
 
 Este repositório tem minhas próprias soluções para estudar. Se você também está
