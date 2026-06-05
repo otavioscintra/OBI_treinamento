@@ -33,9 +33,9 @@ da competição
 
 | Fase | Problema | Linguagem | Status | 
 | :---: | :--- | :---: | :---: | 
-| Fase 1| Var | Python | A fazer |
-| Fase 1| Estoque | Python | A fazer |
-| Fase 1| Subsequência | Python | A fazer |
+| Fase 1| Var | Python | Feito |
+| Fase 1| Estoque | Python | Feito |
+| Fase 1| Subsequência | Python | Feito |
 
 
 
