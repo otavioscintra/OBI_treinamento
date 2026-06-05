@@ -28,6 +28,17 @@ da competição
 | Fase 1| Relógio | Python | Feito |
 | Fase 1| Concurso | Python | Feito |
 
+### OBI 2023
+[Ver Prova](https://olimpiada.ic.unicamp.br/passadas/OBI2023/fase1/programacao/)
+
+| Fase | Problema | Linguagem | Status | 
+| :---: | :--- | :---: | :---: | 
+| Fase 1| Var | Python | Feito |
+| Fase 1| Estoque | Python | Feito |
+| Fase 1| Subsequência | Python | Feito |
+
+
+
 
 
 
