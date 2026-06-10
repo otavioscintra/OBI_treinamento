@@ -37,6 +37,15 @@ da competição
 | Fase 1| Estoque | Python | Feito |
 | Fase 1| Subsequência | Python | Feito |
 
+### OBI 2022
+[Ver Prova](https://olimpiada.ic.unicamp.br/passadas/OBI2022/fase1/programacao/)
+
+| Fase | Problema | Linguagem | Status | 
+| :---: | :--- | :---: | :---: | 
+| Fase 1| Cinema | Python | A fazer |
+| Fase 1| Hotel | Python | A fazer |
+| Fase 1| Show | Python | A fazer |
+
 
 
 
