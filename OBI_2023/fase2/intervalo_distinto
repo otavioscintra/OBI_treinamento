@@ -1,0 +1,21 @@
+def main():
+    n = int(input())
+    li = []
+    for _ in range(n):
+        li.append(int(input()))
+
+    u_p = {}
+    e = 0
+    m_c = 0
+
+    for d, v in enumerate(li):
+        if v in u_p and u_p[v] >= e:
+            e = u_p[v] + 1
+        u_p[v] = d
+        m_c = max(m_c, d - e + 1)
+
+    print(m_c)
+
+
+if __name__ == "__main__":
+    main()
